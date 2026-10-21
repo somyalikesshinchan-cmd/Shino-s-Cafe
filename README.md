@@ -1,2 +1,2 @@
 # Shino-s-Cafe
-A website written using python where you input your name, the service that you need in the cafe, (please write "I want a coffee" or something related to it) and then you can see the menu and order what you like. It is basically an ordering system that can be used in a cafe.
+A website written using python where you input your name, the service that you need in the cafe, (please write "I want a coffee" or something related to it) and then you can see the menu and order what you like. It is basically an ordering system that can be used in a cafe. I am learning how to merge html with python and also I am learning how to use css and javascript together. I hope I will learn it soon. Please share your feedbacks about this project!
